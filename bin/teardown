@@ -1,0 +1,3 @@
+#!/bin/bash -eu
+
+rm -rf ${OPENSHIFT_BPMS_M2_REPO}
