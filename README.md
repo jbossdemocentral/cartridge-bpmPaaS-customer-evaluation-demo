@@ -9,7 +9,7 @@ Setup Now
 
 2. In `CODE ANYTHING` field at bottom left of the page paste the following cartridge URI:
 
-     _https://raw.githubusercontent.com/eschabell/cartridge-bpmPaaS-customer-evaluation-demo/master/metadata/manifest.yml_
+     _https://raw.githubusercontent.com/jbossdemocentral/cartridge-bpmPaaS-customer-evaluation-demo/master/metadata/manifest.yml_
 
 3. Click on `NEXT` button and drink a warm beverage while you wait for finished cartridge installation.
 
@@ -33,9 +33,9 @@ Deployment
 
 Or if you want to use the [rhc command line](https://www.openshift.com/developers/rhc-client-tools-install) type:
 
-    rhc app create -g medium <APP NAME> https://raw.githubusercontent.com/eschabell/cartridge-bpmPaaS-customer-evaluation-demo/master/metadata/manifest.yml
+    rhc app create -g medium <APP NAME> https://raw.githubusercontent.com/jbossdemocentral/cartridge-bpmPaaS-customer-evaluation-demo/master/metadata/manifest.yml
 
-For more information on the [Customer Evaluation Demo see here] (https://github.com/eschabell/bpms-customer-evaluation-demo).
+For more information on the [Customer Evaluation Demo see here] (https://github.com/jbossdemocentral/bpms-customer-evaluation-demo).
 
 Supporting Articles
 -------------------
@@ -48,9 +48,11 @@ Released versions
 
 See the tagged releases for the following versions of the product:
 
+- v1.1 - moved to JBoss Demo Central.
+
 - v1.1 - bpmPaaS on OpenShift cartridge, JBoss BPM Suite 6.0.2 and customer evaluation demo installed.
 
 - v1.0 - bpmPaaS on OpenShift cartridge, JBoss BPM Suite 6.0.1 and customer evaluation demo installed.
 
-![Customer Evaluation Process](https://github.com/eschabell/bpms-customer-evaluation-demo/blob/master/docs/demo-images/process.png?raw=true)
+![Customer Evaluation Process](https://github.com/jbossdemocentral/bpms-customer-evaluation-demo/blob/master/docs/demo-images/process.png?raw=true)
 
