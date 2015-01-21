@@ -1,7 +1,8 @@
-## Cartridge for bpmPaaS with Customer Evaluation Demo
-
+Cartridge for bpmPaaS with Customer Evaluation Demo
+===================================================
 This cartridge provides the **_Red Hat JBoss BPM Suite_** for easy deployment to OpenShift based bpmPaaS with pre-loaded Customer
 Evaluation Demo.
+
 
 Install with one click in xPaaS (bpmPaaS)
 -----------------------------------------
@@ -38,8 +39,7 @@ For more information on the [Customer Evaluation Demo see here] (https://github.
 
 Supporting Articles
 -------------------
-
-[Red Hat OpenShift bpmPaaS - Customer Evaluation Demo now available in the Cloud] (TODO)
+[Launching Into the Clouds With 2 New OpenShift Primer bpmPaaS Quickstarts](http://www.schabell.org/2014/10/launching-into-clouds-with-2-new-openshift-primer-bpmpaas-quicksta    rts.html)
 
 
 Released versions
