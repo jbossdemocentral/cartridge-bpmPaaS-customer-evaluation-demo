@@ -39,7 +39,7 @@ For more information on the [Customer Evaluation Demo see here] (https://github.
 
 Supporting Articles
 -------------------
-[Launching Into the Clouds With 2 New OpenShift Primer bpmPaaS Quickstarts](http://www.schabell.org/2014/10/launching-into-clouds-with-2-new-openshift-primer-bpmpaas-quicksta    rts.html)
+[Launching Into the Clouds With 2 New OpenShift Primer bpmPaaS Quickstarts](http://www.schabell.org/2014/10/launching-into-clouds-with-2-new-openshift-primer-bpmpaas-quickstarts.html)
 
 
 Released versions
