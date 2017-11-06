@@ -1,3 +1,13 @@
+# Depricated: 
+
+-----
+
+This project was based on OpenShift v2 which is no longer available.
+
+-----
+
+
+
 Cartridge for bpmPaaS with Customer Evaluation Demo
 ===================================================
 This cartridge provides the **_Red Hat JBoss BPM Suite_** for easy deployment to OpenShift based bpmPaaS with pre-loaded Customer
